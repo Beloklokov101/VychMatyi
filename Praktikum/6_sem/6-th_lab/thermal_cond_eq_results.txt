@@ -1,0 +1,7 @@
+Laboratory number: 6
+Variant number: 15
+
+L = 5, M = 5
+N = 6
+
+mu = 0.5, C_t = 14

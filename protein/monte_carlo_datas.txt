@@ -1,0 +1,33 @@
+N - number of dots
+M - number of iterations
+
+N = 1000, M = 1000:
+pi_average = 3.141592
+
+N = 1000, M = 10000:
+pi_average = 3.1417460000000004
+
+N = 10000, M = 1000:
+pi_average = 3.1418624
+
+N = 10000, M = 10000:
+pi_average = 3.14131988
+
+N = 100, M = 100:
+pi_average = 3.1684
+
+N = 100, M = 100:
+pi_average = 3.1632
+
+N = 100, M = 100:
+pi_average = 3.1384000000000003
+
+N = 10000, M = 10000:
+pi_average = 3.1415910000000005
+
+N = 10000, M = 10000:
+pi_average = 3.1415340400000002
+
+N = 10000, M = 10000:
+pi_average = 3.1415868799999997
+

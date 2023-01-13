@@ -1,0 +1,20 @@
+Laboratory work number: 5
+Variant number: 7
+
+Were used two methods to calculate integral, Newton-Cotes 3/8 and Gauss with two nodes
+Step length are h = 0.0009998703544206852 (NC), 1.5707963267948966 (G)
+Inaccuracy e = 1e-6
+
+ Newton-Cotes
+N-C theoretical error e_nc = 1.5397714399153245e-07
+I_nc = 0.0006111103879541185
+
+ GAUSS
+Function :: sin(1000x), n = 500
+Nodes coordinate are: 
+  x1 = 2.38732450918988E-7
+  x2 = 1.57079608806245
+Nodes wheights are: 
+  c1,2 = +-0.00100000030396369
+I_g = 0.000611015381223333
+

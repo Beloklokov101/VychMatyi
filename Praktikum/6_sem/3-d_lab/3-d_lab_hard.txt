@@ -1,0 +1,9 @@
+Laboratory work number: 2
+Variant number: 2
+
+L = 10000  prec = 0.0001
+
+Lambda[0] is located in:
+27.888671875 | 27.888763427734375
+Dist = 9.1552734375e-05
+
